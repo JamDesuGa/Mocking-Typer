@@ -5,4 +5,4 @@ Hotkeys
 - Exit: CTRL+Q
 - Toggle ON/OFF: CTRL+P
 
-Help from: https://github.com/gashihiko
+Help from: [Gashihiko] (https://github.com/gashihiko)
